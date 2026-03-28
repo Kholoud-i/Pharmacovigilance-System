@@ -13,11 +13,16 @@ This is a python based quantitative risk management system to support pharmacovi
 
 **The system applies**
 
-Bayesian updating: for dynamic risk estimation
-Poisson & Binomial models: for adverse event frequency
-Z-score: for anomaly detection
-Exponential weighting: for recency effects
-Composite risk functions:  combining severity, frequency, and uncertainty
+  
+  Bayesian updating: for dynamic risk estimation
+  
+  Poisson & Binomial models: for adverse event frequency
+  
+  Z-score: for anomaly detection
+  
+  Exponential weighting: for recency effects
+  
+  Composite risk functions:  combining severity, frequency, and uncertainty
 
 
 **Evaluation & Interpretation**
