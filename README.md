@@ -27,28 +27,43 @@ This is a python based quantitative risk management system to support pharmacovi
 
 **Evaluation & Interpretation**
 
-The system evaluates each drug-event pair using:
+  
+  The system evaluates each drug-event pair using:
 
-Observed vs expected event frequency
-Statistical deviation from baseline
-Model confidence & uncertainty
-Temporal acceleration of risk
-
-These components are merged into a final composite risk index that drives alert thresholds.
+  
+  Observed vs expected event frequency
+  
+  Statistical deviation from baseline
+  
+  Model confidence & uncertainty
+  
+  Temporal acceleration of risk
+  
+  *These components are merged into a final composite risk index that drives alert thresholds.
 
 **Application**:
-Clinical safety analytics
-Early warning systems for drug safety
-Regulatory reporting 
-Real-time patient risk dashboards
+  
+  Clinical safety analytics
+  
+  Early warning systems for drug safety
+  
+  Regulatory reporting 
+  
+  Real-time patient risk dashboards
 
 
-**System architecture**
-risk_system/
-│
-├── data_loader
-├── signal_detection
-├── risk_models
-├── risk_engine
-├── evaluation
+**System architecture**  
+  risk_system/
+  
+  │
+  
+  ├── data_loader
+  
+  ├── signal_detection
+  
+  ├── risk_models
+  
+  ├── risk_engine
+  
+  ├── evaluation
 
