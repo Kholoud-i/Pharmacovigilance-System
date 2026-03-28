@@ -3,9 +3,9 @@
 This is a python based quantitative risk management system to support pharmacovigilance operations.It continuously evaluates patient safety signals by estimating, scoring, and prioritizing potential adverse drug risks using statistical models. The pharmacovigilance quantitative risk management system supports:
 
 **Early detection of safety risks**
-Quantitative prioritization of adverse events
-Data-driven regulatory decision support
-Scalable integration into healthcare pipelines
+    Quantitative prioritization of adverse events
+    Data-driven regulatory decision support
+    Scalable integration into healthcare pipelines
 
 
 **The system applies**
