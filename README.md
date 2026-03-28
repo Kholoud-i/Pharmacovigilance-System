@@ -55,7 +55,6 @@ This is a python based quantitative risk management system to support pharmacovi
 **System architecture**  
   risk_system/
   
-  │
   
   ├── data_loader
   
